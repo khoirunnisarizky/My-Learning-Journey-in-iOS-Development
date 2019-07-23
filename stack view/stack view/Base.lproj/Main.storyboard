@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="stack_view" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="toW-GI-bih">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Creatory: Boost  your  kids' creativity" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WzD-2l-ha1">
+                                        <rect key="frame" x="29" y="257" width="345" height="24"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PWn-Tw-F58">
+                                        <rect key="frame" x="29" y="294" width="345" height="3814"/>
+                                        <mutableString key="text">5 why’s choose the challenge by research - Boosting Kids’ Creativity. 
+Answer: Creativity brings civilisation new technical inventions, artworks, and scientific discoveries. A birth into this world means for a child a continuous chain of 'discoveries for oneself'. This may be due to the dominance of intelligence, or more specifically, cognitive development, as topics in the field of child development.
+Source : “The Phenomenon of Child Creativity” and “On the development of creativity in children”
+
+        Creativity sits a top most lists of skills crucial for success in the 21st century. It represent one of the “Four Cs” in  P21’s learning framework (the other three being critical, communication and collaboration), and it ranks second on the World Economic Forum’s top ten list of skills workers will need most in the year 2020 (complex problem solving ranks first). The William and Flora Hewlett Foundation’s list of “Deeper Learning Competencies” identifies creativity not as its own competency but as a tool for thinking critically - which sits the thirth position on the World Economic Forum’s top ten list of skills workers will need most in the year 2020. 
+        
+        Generally speaking, creativity is associated with generating ideas, while critical thinking is associated with judging them. In practice, however, the two are not so easy to separate. As parents and teachers know well, creativity without critical judgment tends toward the fanciful, the impractical, the ridiculous. “Creative thinking” becomes a nice way of saying that someone’s ideas have run amok.
+        
+        At the same time, critical thinking gets short shrift when reduced to making a judgment, since, at its best, critical thinking is also a way of making a contribution. It is fundamentally creative in the sense that its aim is to produce something new: an insight, an argument, a new synthesis of ideas or information, a new level of understanding. In turn, critical thinking comes into clearer focus when we recognize it as a creative act that enriches understanding by giving rise to something that wasn’t there before.
+        Source : https://www.gettingsmart.com/2017/11/at-the-intersection-of-creativity-and-critical-thinking/
+
+
+    - Why kids ?
+        Answer: Most adults are busy with routine and non-creative work and rarely make such discoveries. Childhood is almost the only part of a person's lufe where creativity work is a universal and natural way of existence and where mastering an elementary way of handling a cultural objects occurs in the chils as a discovery for oneself. 
+        Source : “The Phenomenon of Child Creativity”
+        
+    - Why do kids need to be creative?
+        Answer: All children need to be truly creative is the freedom to commit themselves completely to the effort and make whatever activity they are doing their own. What's important in any creative act is the process of self-expression. Creative experiences can help children express and cope with their feelings. A child's creative activity can help teachers to learn more about what the child may be thinking or feeling. Creativity also fosters mental growth in children by providing opportunities for trying out new ideas, and new ways of thinking and problem-solving.
+        Source : https://www.pbs.org/wholechild/providers/play.html
+    
+    - Why we have to boost kids’ creativity?
+        Answer: The Torrance Tests of Creative Thinking (TTCT) was developed in 1966 and renormed five times: in 1974, 1984, 1990, 1998, and 2008. The total sample for all six normative samples included 272,599 kindergarten through 12th grade students and adults. Analysis of the normative data showed that creative thinking scores remained static or decreased, starting at sixth grade. Results also indicated that since 1990, even as IQ scores have risen, creative thinking scores have significantly decreased. The decrease for kindergartners through third graders was the most significant. (Why does “The decrease for kindergartners through third graders was the most significant” happen? Is it because the transition of learning style from Kindergarten to Elementary School? Answered!!! —&gt; Torrance (1977) suggested these decreases occur when children in West- ern cultures are confronted with new stresses and demands and are expected to conform to classroom eti- quette and peer pressure, and thus their creative abilities are discouraged.)
+        Source : “The Creativity Crisis: The Decrease in Creative Thinking Scores on the Torrance Tests of Creative Thinking”
+        
+        Children need to become aware that a word does not correspond to the object that it defines, that it is an abstraction of the object. If children do not develop an ability for such abstraction by the age of six, they will confuse words and objects while solving abstract tasks, even though they may find it easy to distinguish the things in everyday life.
+        Source: “The Phenomenon of Creativity”
+        
+        There are kids that less guided by their parents, may focus too much of their attention on a screen and ignore the variety of play activities that leads to creativity and better psychological adjustment and contentment.
+        Source: https://tocaboca.com/magazine/creativity-issue_digital-life/
+        
+    - Why creative thinking scores have significantly decreased?
+        Still, with funds and credibility at stake, it becomes common knowledge that many schools now spend more time drilling for exams and less time supporting creative, child-driven learning -- of the sort that little Harper had with her building blocks, explains Jennifer Keys Adair, Ph.D., an early-education expert at the University of Texas at Austin. This focus on rote memorization can be detrimental to cultivating strong creative thinkers. "Children aren't given the opportunity to express their own ideas or come up with their own way of doing things," she explains. "Instead, the answer is A or B or C. There is only one right answer."
+        Source: https://edition.cnn.com/2012/01/03/living/let-kids-be-creative-p/index.html
+        
+    - Why the decrease for kindergartners through third graders was the most significant?
+        The development of logical thinking and reasoning ability might be related to losing creative thinking (e.g., Lubart &amp; Lautrey, 1996). According to Piaget (1981), assimilation process in a spontaneity state is creative imagination, and creative imagination does not decrease with age. However, as creative imagination is reintegrated in intelligence, due to the accommodation process, creative imagination is compromised (Piaget, 1981).
+
+
+    - Who’s responsible in the decrease of creativity in kindergartners to third graders?
+        The decrease of creative thinking for younger children probably arises at home rather than in schools, because kindergarteners and first graders tend to be influenced more by home than school, or possibly both environments contribute to the effect.
+        Source : ‘Phenomenon of Creativity”
+</mutableString>
+                                        <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Otak" translatesAutoresizingMaskIntoConstraints="NO" id="p4q-hh-jzQ">
+                                        <rect key="frame" x="0.0" y="50" width="414" height="187"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="187" id="DoP-ga-nBE"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="PWn-Tw-F58" firstAttribute="top" secondItem="WzD-2l-ha1" secondAttribute="bottom" constant="13" id="19a-Fv-n75"/>
+                                    <constraint firstItem="PWn-Tw-F58" firstAttribute="leading" secondItem="WzD-2l-ha1" secondAttribute="leading" id="3qw-3t-plU"/>
+                                    <constraint firstItem="PWn-Tw-F58" firstAttribute="trailing" secondItem="WzD-2l-ha1" secondAttribute="trailing" id="4N9-0T-lsX"/>
+                                    <constraint firstAttribute="trailing" secondItem="p4q-hh-jzQ" secondAttribute="trailing" id="5YG-I8-6K4"/>
+                                    <constraint firstAttribute="bottom" secondItem="PWn-Tw-F58" secondAttribute="bottom" constant="24" id="8No-Ia-7SI"/>
+                                    <constraint firstItem="p4q-hh-jzQ" firstAttribute="top" secondItem="toW-GI-bih" secondAttribute="top" constant="50" id="BRf-iD-UW2"/>
+                                    <constraint firstItem="p4q-hh-jzQ" firstAttribute="leading" secondItem="toW-GI-bih" secondAttribute="leading" id="C42-sI-whT"/>
+                                    <constraint firstItem="WzD-2l-ha1" firstAttribute="leading" secondItem="toW-GI-bih" secondAttribute="leading" constant="29" id="KBu-Sa-ZvE"/>
+                                    <constraint firstItem="p4q-hh-jzQ" firstAttribute="centerX" secondItem="toW-GI-bih" secondAttribute="centerX" id="On9-3A-Iwy"/>
+                                    <constraint firstItem="WzD-2l-ha1" firstAttribute="top" secondItem="p4q-hh-jzQ" secondAttribute="bottom" constant="20" id="PSz-vL-Mp0"/>
+                                    <constraint firstAttribute="trailing" secondItem="WzD-2l-ha1" secondAttribute="trailing" constant="40" id="tcy-3g-h4W"/>
+                                </constraints>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="toW-GI-bih" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="4fQ-yw-LFm"/>
+                            <constraint firstItem="toW-GI-bih" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="8yk-6Q-g7Y"/>
+                            <constraint firstAttribute="bottom" secondItem="toW-GI-bih" secondAttribute="bottom" id="Eop-JD-dE4"/>
+                            <constraint firstAttribute="trailing" secondItem="toW-GI-bih" secondAttribute="trailing" id="ruc-df-Wmn"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="115.84821428571428"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Otak" width="985" height="965"/>
+    </resources>
+</document>
